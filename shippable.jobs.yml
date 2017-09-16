@@ -1,0 +1,6 @@
+jobs:
+- name: test1-jenkins-ci
+  type: jenkinsJob
+  integration: "jenkins"
+  pointer:
+    sourceName: "test1"
